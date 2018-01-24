@@ -1,0 +1,6 @@
+framework module Pods_BaiDuNews {
+  umbrella header "Pods-BaiDuNews-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ImageScout {
+  umbrella header "ImageScout-umbrella.h"
+
+  export *
+  module * { export * }
+}
